@@ -44,3 +44,4 @@ plt.xticks(rotation=0)
 plt.tight_layout()
 plt.savefig("fairness_gender.png")
 print("✅ Fairness plot saved as fairness_gender.png")
+
