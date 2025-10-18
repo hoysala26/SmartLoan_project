@@ -1,0 +1,101 @@
+Age,Gender,Land_Size,Crop_Type,Annual_Income,Credit_Score,Previous_Loan,Current_Debt,Region,Subsidy_Access,Dependents,Loan_Status
+53,Female,4.78,Rice,113915,567,No,39264,Tamil Nadu,Yes,4,Approved
+53,Male,2.43,Cotton,114948,842,No,4402,Karnataka,Yes,1,Approved
+56,Female,4.92,Maize,125089,708,No,35496,Bihar,Yes,3,Approved
+31,Female,1.43,Maize,101607,570,No,27462,Maharashtra,No,2,Rejected
+29,Female,1.97,Rice,129230,364,Yes,48908,Punjab,Yes,0,Rejected
+48,Male,2.61,Maize,237501,422,Yes,57331,Tamil Nadu,Yes,2,Rejected
+34,Male,8.86,Wheat,113667,517,No,32376,Maharashtra,Yes,1,Approved
+54,Male,9.46,Rice,143008,408,No,67052,Punjab,No,5,Rejected
+48,Male,3.16,Maize,154526,797,No,81460,Bihar,No,3,Approved
+60,Female,9.01,Wheat,130606,738,No,60341,Tamil Nadu,No,2,Approved
+39,Female,9.59,Wheat,223882,357,Yes,64239,Bihar,No,3,Rejected
+65,Male,7.26,Sugarcane,149915,601,Yes,96136,Bihar,No,5,Rejected
+27,Male,3.25,Cotton,220355,513,Yes,67991,Tamil Nadu,Yes,0,Rejected
+54,Male,8.25,Sugarcane,137399,756,No,57599,Maharashtra,Yes,1,Approved
+58,Male,7.73,Maize,165064,556,Yes,21635,Karnataka,Yes,2,Rejected
+57,Male,6.73,Rice,156553,716,Yes,91944,Maharashtra,No,1,Approved
+55,Female,8.49,Rice,127231,637,Yes,91090,Bihar,No,2,Approved
+33,Male,1.75,Sugarcane,156483,553,No,2911,Maharashtra,No,2,Rejected
+50,Male,6.6,Rice,191873,530,Yes,74713,Karnataka,Yes,3,Rejected
+26,Female,3.67,Cotton,92329,431,No,25745,Punjab,Yes,3,Rejected
+46,Female,8.4,Rice,56845,540,No,3692,Punjab,No,1,Rejected
+64,Female,6.89,Cotton,216436,733,Yes,47006,Maharashtra,No,4,Approved
+60,Female,8.59,Maize,60899,527,No,74797,Karnataka,Yes,4,Approved
+31,Male,3.37,Maize,205090,475,No,75035,Bihar,Yes,2,Rejected
+56,Female,2.7,Wheat,62245,538,Yes,95075,Karnataka,No,0,Rejected
+57,Male,5.65,Rice,123900,399,No,95996,Punjab,No,1,Approved
+56,Female,8.57,Maize,117221,653,No,73797,Tamil Nadu,No,1,Rejected
+53,Male,5.25,Rice,50938,311,No,27385,Bihar,Yes,2,Approved
+59,Male,8.18,Rice,160568,311,No,3740,Punjab,Yes,5,Approved
+26,Female,1.53,Maize,203870,467,No,93297,Maharashtra,No,4,Rejected
+54,Male,6.92,Maize,280918,595,No,17745,Punjab,No,2,Approved
+35,Male,2.07,Cotton,294920,478,Yes,15136,Punjab,Yes,1,Approved
+65,Female,8.88,Sugarcane,267572,324,No,38529,Karnataka,No,3,Rejected
+58,Male,1.24,Maize,143892,363,No,49540,Bihar,Yes,0,Approved
+48,Female,1.06,Rice,206661,669,No,15380,Punjab,No,3,Approved
+32,Female,3.62,Rice,299148,634,Yes,1818,Tamil Nadu,No,0,Rejected
+41,Female,9.43,Cotton,159627,530,No,83467,Bihar,Yes,1,Rejected
+60,Male,1.95,Sugarcane,178070,381,No,82376,Tamil Nadu,Yes,1,Approved
+63,Female,9.56,Wheat,123376,329,No,81248,Bihar,Yes,5,Approved
+34,Male,5.3,Cotton,139525,307,No,61095,Maharashtra,Yes,5,Approved
+51,Male,8.31,Rice,184124,551,Yes,92654,Tamil Nadu,No,2,Rejected
+36,Female,8.86,Cotton,228494,822,No,49476,Maharashtra,No,3,Approved
+54,Male,5.31,Wheat,240571,323,No,64207,Karnataka,Yes,0,Rejected
+64,Female,6.39,Maize,177304,728,No,69230,Punjab,No,1,Rejected
+42,Female,7.11,Cotton,105433,514,No,16430,Punjab,No,0,Approved
+48,Male,4.56,Rice,294964,654,Yes,79864,Tamil Nadu,No,2,Approved
+31,Male,6.55,Cotton,122612,466,No,80151,Tamil Nadu,Yes,3,Approved
+32,Female,8.28,Rice,231865,580,Yes,77931,Maharashtra,Yes,4,Approved
+36,Female,7.7,Sugarcane,61751,633,Yes,20702,Punjab,Yes,5,Approved
+36,Male,8.0,Sugarcane,118285,606,No,66749,Punjab,Yes,2,Rejected
+43,Male,4.08,Wheat,89103,341,No,56574,Maharashtra,Yes,1,Rejected
+37,Female,5.67,Maize,268490,519,Yes,94667,Bihar,Yes,1,Rejected
+64,Female,4.36,Cotton,63417,342,Yes,58945,Punjab,Yes,1,Approved
+34,Female,7.41,Sugarcane,120979,795,Yes,7730,Maharashtra,Yes,5,Rejected
+52,Female,2.98,Sugarcane,186398,389,Yes,56627,Bihar,No,4,Rejected
+37,Male,9.58,Cotton,236175,741,Yes,69607,Karnataka,Yes,0,Rejected
+62,Male,3.24,Maize,76361,418,Yes,26648,Punjab,No,0,Approved
+54,Female,4.66,Rice,87844,606,No,41801,Punjab,No,4,Rejected
+51,Female,7.33,Cotton,221949,312,Yes,82648,Maharashtra,Yes,0,Rejected
+29,Male,6.08,Wheat,196238,356,No,75830,Bihar,No,0,Approved
+45,Male,6.56,Wheat,295345,739,No,57077,Maharashtra,No,5,Approved
+38,Male,5.57,Maize,195330,443,Yes,35202,Punjab,Yes,3,Approved
+46,Male,4.98,Cotton,113921,332,Yes,82097,Punjab,Yes,2,Approved
+31,Female,9.73,Sugarcane,272073,840,No,64180,Punjab,No,3,Rejected
+31,Male,5.92,Wheat,84467,542,Yes,37033,Bihar,No,0,Approved
+41,Male,4.29,Sugarcane,98571,338,No,90557,Tamil Nadu,Yes,4,Approved
+32,Female,7.52,Maize,207373,324,No,53443,Punjab,Yes,5,Approved
+30,Male,7.55,Cotton,191054,475,No,17160,Bihar,No,1,Rejected
+44,Male,7.92,Wheat,217558,597,No,96135,Bihar,No,0,Approved
+34,Female,2.82,Maize,154589,460,Yes,48309,Maharashtra,Yes,4,Approved
+55,Female,1.44,Cotton,131865,657,Yes,19401,Karnataka,Yes,2,Rejected
+42,Male,2.14,Sugarcane,276338,821,Yes,60361,Maharashtra,No,3,Approved
+32,Male,2.86,Maize,294111,323,Yes,63097,Bihar,Yes,0,Approved
+48,Male,4.11,Rice,56508,849,No,14470,Maharashtra,No,4,Rejected
+37,Male,8.05,Sugarcane,227099,324,Yes,3115,Maharashtra,No,5,Rejected
+39,Male,2.79,Cotton,244069,391,No,8982,Tamil Nadu,No,4,Approved
+35,Male,6.97,Cotton,57095,329,Yes,13019,Bihar,No,2,Approved
+46,Female,7.13,Maize,210249,849,No,46092,Punjab,No,1,Approved
+40,Male,7.96,Sugarcane,97959,391,Yes,48108,Maharashtra,No,0,Approved
+34,Female,8.43,Sugarcane,157909,595,No,64063,Karnataka,No,4,Rejected
+26,Female,3.08,Wheat,276983,311,Yes,22934,Punjab,Yes,4,Approved
+34,Male,4.56,Sugarcane,278108,317,No,11983,Maharashtra,No,2,Rejected
+57,Male,5.52,Rice,58793,571,Yes,88073,Punjab,No,4,Approved
+55,Male,3.99,Maize,266279,396,No,44589,Bihar,Yes,4,Approved
+37,Male,5.47,Rice,241990,494,Yes,65085,Tamil Nadu,No,0,Approved
+57,Female,6.15,Wheat,191048,797,No,2361,Bihar,Yes,2,Approved
+56,Female,8.53,Wheat,203018,664,Yes,56894,Maharashtra,No,0,Rejected
+65,Male,5.19,Cotton,272351,394,No,43073,Maharashtra,Yes,1,Rejected
+29,Male,2.09,Sugarcane,50475,682,Yes,25592,Punjab,Yes,0,Rejected
+53,Male,6.81,Maize,174011,772,No,85200,Punjab,Yes,4,Rejected
+37,Female,3.33,Maize,212226,560,Yes,46357,Tamil Nadu,Yes,0,Rejected
+53,Male,9.24,Maize,215046,361,No,49099,Punjab,Yes,5,Rejected
+35,Male,3.09,Rice,193915,670,Yes,9978,Maharashtra,No,2,Rejected
+62,Female,9.25,Cotton,80984,426,Yes,46977,Bihar,No,1,Approved
+63,Female,6.61,Wheat,168368,476,No,23947,Maharashtra,No,1,Rejected
+34,Female,3.69,Maize,270236,796,Yes,67881,Tamil Nadu,No,0,Rejected
+39,Male,1.02,Sugarcane,163214,759,No,47637,Punjab,Yes,1,Rejected
+35,Female,6.42,Wheat,263092,452,Yes,82839,Maharashtra,No,0,Rejected
+42,Female,7.19,Wheat,161109,808,Yes,27069,Bihar,Yes,4,Approved
+25,Male,5.67,Wheat,257901,308,Yes,1575,Bihar,No,5,Rejected
